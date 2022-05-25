@@ -13,7 +13,7 @@
 
       <p class="d-flex align-items-center justify-content-center">
         This project was created using VueJS CLI, and the API Hacker News. In this project was also used
-        Bootstrap to create the style.
+        Bootstrap and CSS to create the style.
       </p>
 
 
