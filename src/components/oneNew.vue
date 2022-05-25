@@ -17,12 +17,6 @@
 
         <div style="height: 100px;"><!-- space --></div>
 
-        <div class="row">
-            <div class="col">
-                <!-- <card-x-vue :info="info"></card-x-vue> -->
-            </div>
-            
-        </div>
     </div>
     
 
